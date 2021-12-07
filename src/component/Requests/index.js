@@ -1,0 +1,1 @@
+export const LINK = 'https://www.vtaar.com/api';
